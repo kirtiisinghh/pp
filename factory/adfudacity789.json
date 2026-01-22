@@ -1,0 +1,9 @@
+{
+	"name": "adfudacity789",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd0cd111-4a11-458a-a9b4-0f5f61db856f",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
